@@ -1,4 +1,4 @@
-# s1clean_plus
+# S1clean_plus
 
 A **convenient** data-cleaning helper for coursework and real projects:
 
@@ -17,6 +17,7 @@ pip install -e .
 # if you want Kaggle loader:
 pip install -e .[kaggle]
 ```
+*You need to have `pandas`, `numpy`, `scikit-learn`, `matplotlib` installed in your pc
 
 ## Quickstart
 
