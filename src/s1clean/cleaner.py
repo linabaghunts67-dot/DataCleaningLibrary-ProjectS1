@@ -12,7 +12,6 @@ try:
 except Exception:
     SKLEARN_OK = False
 
-# ---------- helpers ----------
 
 _NUM_RE = re.compile(r"[-+]?\d{1,3}(?:[,\s]\d{3})*(?:\.\d+)?|[-+]?\d+(?:\.\d+)?")
 
